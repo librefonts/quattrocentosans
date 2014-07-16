@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="QuattrocentoSans-Bold.otf.GlyphOrder.ttx"/>
+  <head src="QuattrocentoSans-Bold.otf._h_e_a_d.ttx"/>
+  <hhea src="QuattrocentoSans-Bold.otf._h_h_e_a.ttx"/>
+  <maxp src="QuattrocentoSans-Bold.otf._m_a_x_p.ttx"/>
+  <OS_2 src="QuattrocentoSans-Bold.otf.O_S_2f_2.ttx"/>
+  <name src="QuattrocentoSans-Bold.otf._n_a_m_e.ttx"/>
+  <cmap src="QuattrocentoSans-Bold.otf._c_m_a_p.ttx"/>
+  <post src="QuattrocentoSans-Bold.otf._p_o_s_t.ttx"/>
+  <CFF src="QuattrocentoSans-Bold.otf.C_F_F_.ttx"/>
+  <GPOS src="QuattrocentoSans-Bold.otf.G_P_O_S_.ttx"/>
+  <GSUB src="QuattrocentoSans-Bold.otf.G_S_U_B_.ttx"/>
+  <hmtx src="QuattrocentoSans-Bold.otf._h_m_t_x.ttx"/>
+  <kern src="QuattrocentoSans-Bold.otf._k_e_r_n.ttx"/>
+</ttFont>
