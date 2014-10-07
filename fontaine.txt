@@ -1,0 +1,330 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Quattrocento Sans
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.000
+    Vendor: Pablo Impallari, Igino Marini, Brenda Gallo
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 243
+    Character count: 242
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+  Font:
+    Common name: Quattrocento Sans
+    Sub family: Bold Italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.000
+    Vendor: Pablo Impallari, Igino Marini, Brenda Gallo
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 244
+    Character count: 242
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+  Font:
+    Common name: Quattrocento Sans
+    Sub family: Italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.000
+    Vendor: Pablo Impallari, Igino Marini, Brenda Gallo
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 245
+    Character count: 243
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+  Font:
+    Common name: Quattrocento Sans
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.000
+    Vendor: Pablo Impallari, Igino Marini, Brenda Gallo
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 243
+    Character count: 241
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+  Font:
+    Common name: Quattrocento Sans
+    Sub family: Bold Italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.000
+    Vendor: Pablo Impallari, Igino Marini, Brenda Gallo
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 244
+    Character count: 242
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+  Font:
+    Common name: Quattrocento Sans
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.000
+    Vendor: Pablo Impallari, Igino Marini, Brenda Gallo
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 243
+    Character count: 241
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+  Font:
+    Common name: Quattrocento Sans
+    Sub family: Italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.000
+    Vendor: Pablo Impallari, Igino Marini, Brenda Gallo
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 245
+    Character count: 243
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1
+  Font:
+    Common name: Quattrocento Sans
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 2.000
+    Vendor: Pablo Impallari, Igino Marini, Brenda Gallo
+    Vendor url: www.impallari.com
+    Designer: Pablo Impallari
+    Designer url: www.impallari.com
+    Glyph count: 243
+    Character count: 242
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 1

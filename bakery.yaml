@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [QuattrocentoSans-BoldItalic.ttf.ttx, QuattrocentoSans-Bold.ttf.ttx,
+  QuattrocentoSans-Italic.ttf.ttx, QuattrocentoSans-Regular.ttf.ttx, src/QuattrocentoSans-Regular.otf.ttx,
+  src/QuattrocentoSans-BoldItalic.otf.ttx, src/QuattrocentoSans-Italic.otf.ttx, src/QuattrocentoSans-Bold.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
